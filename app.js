@@ -198,7 +198,7 @@ function tampilkanMenu(data) {
                 <p class="price">Rp. ${harga},-</p>
                 <div class="buttons">
                     <button class="detail btn" data-id="${id}">Detail</button>
-                    <button class="buy btn"><a href="https://wa.me/088210504453?text=Saya ingin beli ${nama},bisa share info lebih lanjut?">Beli</a></button>
+                    <button class="buy btn"><a href="https://wa.me/88210504453?text=Saya ingin beli ${nama},bisa share info lebih lanjut?">Beli</a></button>
                 </div>
             </div>
         `;
